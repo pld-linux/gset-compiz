@@ -14,7 +14,8 @@ Version:	0.3.3
 Release:	%{rel}.0.1
 License:	CHGW
 Group:		X11/Window Managers/Tools
-Source0:	%{name}-%{version}-%{_rel}.tar.bz2
+Source0:	http://distfiles.xgl-coffee.org/%{name}-%{version}-%{_rel}.tar.bz2
+# Source0-md5:	af40f2b8bf6e5f7f18debf2ecdee5248
 URL:		http://www.xgl-coffee.org
 #BuildRequires:	-
 Requires:	compiz
