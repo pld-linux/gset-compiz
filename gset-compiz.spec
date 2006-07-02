@@ -9,7 +9,7 @@ Summary(pl):	Narzêdzie GTK+ do konfiguracji compiza
 Name:		gset-compiz
 %define		_rel	r1
 Version:	0.3.3
-Release:	%{rel}.0.1
+Release:	%{_rel}.0.1
 License:	GPL v2+
 Group:		X11/Window Managers/Tools
 Source0:	http://distfiles.xgl-coffee.org/%{name}-%{version}-%{_rel}.tar.bz2
