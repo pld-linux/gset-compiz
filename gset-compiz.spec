@@ -5,7 +5,7 @@
 #   compiz-quinnstorm are ok for gset)
 #
 Summary:	A GTK+ tool to configure compiz
-Summary(pl):	Narzêdzie GTK+ do konfiguracji compiza
+Summary(pl.UTF-8):   NarzÄ™dzie GTK+ do konfiguracji compiza
 Name:		gset-compiz
 %define		_rel	r1
 Version:	0.3.3
@@ -29,12 +29,12 @@ possible variables in all possible compiz plugins in an easy fasion.
 This package puts a radical stop to configuring compiz via GConf
 editor.
 
-%description -l pl
-To narzêdzie jest wszystkim co potrzeba do skonfigurowania compiza.
-Pozwala wybraæ, które wtyczki compiza za³adowaæ oraz manipulowaæ
-wszystkimi mo¿liwymi zmiennymi we wszystkich mo¿liwych wtyczkach
-compiza w prosty sposób. Ten pakiet powoduje radykalny koniec
-konfigurowaniu compiza za pomoc± edytora konfiguracji GConf.
+%description -l pl.UTF-8
+To narzÄ™dzie jest wszystkim co potrzeba do skonfigurowania compiza.
+Pozwala wybraÄ‡, ktÃ³re wtyczki compiza zaÅ‚adowaÄ‡ oraz manipulowaÄ‡
+wszystkimi moÅ¼liwymi zmiennymi we wszystkich moÅ¼liwych wtyczkach
+compiza w prosty sposÃ³b. Ten pakiet powoduje radykalny koniec
+konfigurowaniu compiza za pomocÄ… edytora konfiguracji GConf.
 
 %prep
 %setup -q
