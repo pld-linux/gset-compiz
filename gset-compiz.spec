@@ -5,7 +5,7 @@
 #   compiz-quinnstorm are ok for gset)
 #
 Summary:	A GTK+ tool to configure compiz
-Summary(pl.UTF-8):   Narzędzie GTK+ do konfiguracji compiza
+Summary(pl.UTF-8):	Narzędzie GTK+ do konfiguracji compiza
 Name:		gset-compiz
 %define		_rel	r1
 Version:	0.3.3
